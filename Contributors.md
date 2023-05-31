@@ -381,11 +381,13 @@
 - [Kashyap Busa](https://github.com/kashyap310)
 - [Daniel Suwahjo](https://github.com/danielsuwahjo)
 - [Muhammad Hatif Mujahid](https://github.com/hatifmujahid)
+
 - [Raj sharma](https://github.com/lluciferr)
 - [Sanchit Yadav](https://github.com/SanchitYadav2005)
 - [Siddhant](https://github.com/Keshri2806)
 - [Conaitus](https://github.com/conaitus)
 - [Rounak Joshi](https://github.com/RounakJoshi09)
+- [Yashasvi Rawat](https://github.com/YashasviRawat15)
 - [Patrickwchoi](https://github.com/patrickwchoi)
 - [Sham04](https://github.com/Sham04s)
 - Justin Valdez
