@@ -58,6 +58,7 @@
 - [Ilay Eldar](https://github.com/ilayEldar24)
 - [Jonathan Kariuki](https://github.com/JonathanSecondGithub)
 - [Akhil](https://github.com/Akhil-77)
+-[Yashasvi Rawat]()
 - [Javier Ramirez](https://github.com/ramirezj129)
 - [Yash Patel](https://github.com/theyashpatel)
 - [Richi](https://github.com/Zerov1000)
